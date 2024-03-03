@@ -18,6 +18,7 @@ My curiosity about technology has sparked a deep interest in cybersecurity, moti
 | Digital Fornsics                              | SOC Automation Lab|
 | SIEM Implementation and Log Analysis          | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
+| MITRE ATT&CK                                  | SOC Automation Lab|
 
 ## Tools
 
@@ -51,5 +52,6 @@ My curiosity about technology has sparked a deep interest in cybersecurity, moti
 </div>
 
 ## Projects
+- ATT&CK Lab
 - Detection Lab
 - SOC Automation Project
