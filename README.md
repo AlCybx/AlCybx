@@ -9,7 +9,6 @@ I am a recent graduate with a profound interest in cybersecurity, technology and
 My curiosity about technology has sparked a deep interest in cybersecurity, motivating me to pursue a career transition into this field. Currently, I am enthusiastic about joining a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -18,7 +17,7 @@ My curiosity about technology has sparked a deep interest in cybersecurity, moti
 | Digital Fornsics                              | SOC Automation Lab|
 | SIEM Implementation and Log Analysis          | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| MITRE ATT&CK                                  | SOC Automation Lab|
+| MITRE ATT&CK                                  | <a href="https://github.com/AlCybx/ATT-CK-Lab/tree/main">ATT&CK Lab</a>|
 
 ## Tools
 
@@ -52,6 +51,6 @@ My curiosity about technology has sparked a deep interest in cybersecurity, moti
 </div>
 
 ## Projects
-- ATT&CK Lab
+- <a href="https://github.com/AlCybx/ATT-CK-Lab/tree/main">ATT&CK Lab</a>
 - Detection Lab
 - SOC Automation Project
