@@ -18,7 +18,7 @@ My curiosity about technology has sparked a deep interest in cybersecurity, moti
 | SIEM Implementation and Log Analysis          | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | MITRE ATT&CK                                  | <a href="https://github.com/AlCybx/ATT-CK-Lab/tree/main">ATT&CK Lab</a>|
-| Malicious Powershell Analysis                 | <a href="https://google.com">Detection Lab</a>|
+| Malicious Powershell Analysis                 | <a href=https://github.com/AlCybx/Malicious-Powershell-Analysis-/tree/main>Malicious Powershell Analysis</a>|
 
 ## Tools
 
@@ -53,6 +53,6 @@ My curiosity about technology has sparked a deep interest in cybersecurity, moti
 
 ## Projects
 - <a href="https://github.com/AlCybx/ATT-CK-Lab/tree/main">ATT&CK Lab</a>
-- Malicious Powershell Analysis 
+- <a href=https://github.com/AlCybx/Malicious-Powershell-Analysis-/tree/main>Malicious Powershell Analysis</a>
 - Detection Lab
 - SOC Automation Project
