@@ -19,7 +19,7 @@ My curiosity about technology has sparked a deep interest in cybersecurity, moti
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | MITRE ATT&CK                                  | <a href="https://github.com/AlCybx/ATT-CK-Lab/tree/main">ATT&CK Lab</a>|
 | Malicious Powershell Analysis                 | <a href=https://github.com/AlCybx/Malicious-Powershell-Analysis-/tree/main>Malicious Powershell Analysis</a>|
-| Network Analysis - Ransomware                 | <a href="https://google.com">Detection Lab</a>|
+| Network Analysis - Ransomware                 | <a href="https://github.com/AlCybx/Network-Analysis---Ransomware-Lab/tree/main">Network Analysis - Ransomware  Lab</a>|
 
 ## Tools
 
@@ -27,6 +27,8 @@ My curiosity about technology has sparked a deep interest in cybersecurity, moti
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TCPDump-000000?&style=for-the-badge&logo=TCPDump&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tshark-007EC6?&style=for-the-badge&logo=Tshark&logoColor=white" />
 
 
 ### Endpoint
@@ -55,6 +57,6 @@ My curiosity about technology has sparked a deep interest in cybersecurity, moti
 ## Projects
 - <a href="https://github.com/AlCybx/ATT-CK-Lab/tree/main">ATT&CK Lab</a>
 - <a href=https://github.com/AlCybx/Malicious-Powershell-Analysis-/tree/main>Malicious Powershell Analysis</a>
-- Network Analysis - Ransomware Lab
+- <a href="https://github.com/AlCybx/Network-Analysis---Ransomware-Lab/tree/main">Network Analysis - Ransomware  Lab</a>
 - Detection Lab
 - SOC Automation Project
