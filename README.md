@@ -12,7 +12,7 @@ My curiosity about technology has sparked a deep interest in cybersecurity, moti
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Phishing Analysis                             | <a href="https://google.com">Detection Lab</a>|
+| Phishing Analysis                             | <a href="https://github.com/AlCybx/Phishing-Analysis-Lab/tree/main">Phishing Analysis Lab</a>|
 | Threat Intelligence                           | <a href="https://google.com">Detection Lab</a>|
 | Digital Fornsics                              | SOC Automation Lab|
 | SIEM Implementation and Log Analysis          | SOC Automation Lab|
@@ -59,5 +59,6 @@ My curiosity about technology has sparked a deep interest in cybersecurity, moti
 - <a href="https://github.com/AlCybx/ATT-CK-Lab/tree/main">ATT&CK Lab</a>
 - <a href=https://github.com/AlCybx/Malicious-Powershell-Analysis-/tree/main>Malicious Powershell Analysis</a>
 - <a href="https://github.com/AlCybx/Network-Analysis---Ransomware-Lab/tree/main">Network Analysis - Ransomware  Lab</a>
+-  <a href="https://github.com/AlCybx/Phishing-Analysis-Lab/tree/main">Phishing Analysis Lab</a>
 - Detection Lab
 - SOC Automation Project
