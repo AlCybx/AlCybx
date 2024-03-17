@@ -14,7 +14,7 @@ My curiosity about technology has sparked a deep interest in cybersecurity, moti
 |-----------------------------------------------|----------------------------|
 | Phishing Analysis                             | <a href="https://github.com/AlCybx/Phishing-Analysis-Lab/tree/main">Phishing Analysis Lab</a>|
 | Threat Intelligence                           | <a href="https://github.com/AlCybx/Threat-Intelligence/tree/main">Threat Intelligence Lab</a>|
-| Deep Blue Analysis Lab                        | SOC Automation Lab|
+| Deep Blue Analysis Lab                        | <a href="https://github.com/AlCybx/Deep-Blue-Analysis-Lab-/blob/main/README.md">Deep Blue Analysis Lab</a>|
 | SIEM Implementation and Log Analysis          | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | MITRE ATT&CK                                  | <a href="https://github.com/AlCybx/ATT-CK-Lab/tree/main">ATT&CK Lab</a>|
@@ -46,9 +46,8 @@ My curiosity about technology has sparked a deep interest in cybersecurity, moti
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
@@ -61,5 +60,5 @@ My curiosity about technology has sparked a deep interest in cybersecurity, moti
 - <a href="https://github.com/AlCybx/Network-Analysis---Ransomware-Lab/tree/main">Network Analysis - Ransomware  Lab</a>
 -  <a href="https://github.com/AlCybx/Phishing-Analysis-Lab/tree/main">Phishing Analysis Lab</a>
 - <a href="https://github.com/AlCybx/Threat-Intelligence/tree/main">Threat Intelligence Lab</a>
-- Deep Blue Analysis Lab  
+- <a href="https://github.com/AlCybx/Deep-Blue-Analysis-Lab-/blob/main/README.md">Deep Blue Analysis Lab</a>  
 - SOC Automation Project
