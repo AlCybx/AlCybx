@@ -23,35 +23,38 @@ My curiosity about technology has sparked a deep interest in cybersecurity, moti
 
 ## Tools
 
-### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-TCPDump-000000?&style=for-the-badge&logo=TCPDump&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tshark-007EC6?&style=for-the-badge&logo=Tshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ProcDump-4B275F?&style=for-the-badge&logo=ProcDump&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KAPE-4B275F?&style=for-the-badge&logo=KAPE&logoColor=white" />
 
 
-### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PhishTool-4B275F?&style=for-the-badge&logo=PhishTool&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MISP-4B275F?&style=for-the-badge&logo=MISP&logoColor=white" />
     <img src="https://img.shields.io/badge/-McAfee-FF0000?&style=for-the-badge&logo=McAfee&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FTK_Imager-4B275F?&style=for-the-badge&logo=FTK_Imager&logoColor=white" />
+
 </div>
 
-### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TheHive-4B275F?&style=for-the-badge&logo=TheHive&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CyberChef-4B275F?&style=for-the-badge&logo=CyberChef&logoColor=white" />
+
 </div>
 
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Network%2B%20Udemy-4285F4?style=for-the-badge&logo=Udemy&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20Udemy-4285F4?style=for-the-badge&logo=Udemy&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Linux%2B%20Udemy-4285F4?style=for-the-badge&logo=Udemy&logoColor=white" />
 </div>
 
 ## Projects
