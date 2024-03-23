@@ -14,9 +14,9 @@ My curiosity about technology has sparked a deep interest in cybersecurity, moti
 |-----------------------------------------------|----------------------------|
 | Phishing Analysis                             | <a href="https://github.com/AlCybx/Phishing-Analysis-Lab/tree/main">Phishing Analysis Lab</a>|
 | Threat Intelligence                           | <a href="https://github.com/AlCybx/Threat-Intelligence/tree/main">Threat Intelligence Lab</a>|
-| Deep Blue Analysis Lab                        | <a href="https://github.com/AlCybx/Deep-Blue-Analysis-Lab-/blob/main/README.md">Deep Blue Analysis Lab</a>|
-| Countdown Lab                                 | <a href="https://github.com/AlCybx/Countdown-Lab-/tree/main/README.md">Countdown Lab</a>|
-| Pretium Lab                                   | SOC Automation Lab|
+| Deep Blue Analysis Lab                        | <a href="https://github.com/AlCybx/Deep-Blue-Analysis-Lab-/blob/main">Deep Blue Analysis Lab</a>|
+| Countdown Lab                                 | <a href="https://github.com/AlCybx/Countdown-Lab-/tree/main">Countdown Lab</a>|
+| Pretium Lab                                   | <a href="https://github.com/AlCybx/Pretium-Lab/tree/main">Pretium Lab</a>|
 | MITRE ATT&CK                                  | <a href="https://github.com/AlCybx/ATT-CK-Lab/tree/main">ATT&CK Lab</a>|
 | Malicious Powershell Analysis                 | <a href=https://github.com/AlCybx/Malicious-Powershell-Analysis-/tree/main>Malicious Powershell Analysis</a>|
 | Network Analysis - Ransomware                 | <a href="https://github.com/AlCybx/Network-Analysis---Ransomware-Lab/tree/main">Network Analysis - Ransomware  Lab</a>|
@@ -65,4 +65,4 @@ My curiosity about technology has sparked a deep interest in cybersecurity, moti
 - <a href="https://github.com/AlCybx/Threat-Intelligence/tree/main">Threat Intelligence Lab</a>
 - <a href="https://github.com/AlCybx/Deep-Blue-Analysis-Lab-/blob/main/README.md">Countdown Lab</a>  
 - <a href="https://github.com/AlCybx/Countdown-Lab-/tree/main/README.md">Deep Blue Analysis Lab</a>
-- Pretium Lab
+- <a href="https://github.com/AlCybx/Pretium-Lab/tree/main">Pretium Lab</a>
