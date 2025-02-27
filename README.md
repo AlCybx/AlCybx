@@ -2,10 +2,6 @@
 <a href="https://linkedin.com/in/alex-yirenkyi-akuffo-0a95781ba/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with a profound interest in cybersecurity, technology and a dedication to solving complex problems.
-
-## Objective
-
 🔹 Passionate about technology and continuously learning new skills in IT, software development, and data analytics.
 🔹 Currently exploring programming, cloud computing, and database management to build a solid foundation for an IT career.
 🔹 Learning C#, SQL, Posthresql, javascript, HTML, CSS and cloud technologies (AWS, Azure, etc.) while working on exciting projects.
@@ -13,6 +9,16 @@ I am a recent graduate with a profound interest in cybersecurity, technology and
 💡 Goal: To build a career in IT and software development, contributing to innovative solutions and improving my technical expertise.
 
 📌 Check out my projects and feel free to connect!
+
+## Objective
+
+🚀 Aspiring Back-End Engineer | Passion for Performance, Security & Scalable APIs
+
+I am a dedicated back-end engineer with expertise in C#, ASP.NET, JavaScript, SQL, PostgreSQL, Express.js, and Node.js, committed to building efficient, secure, and scalable applications. My portfolio showcases projects from my learning journey, highlighting API development, performance optimization, and security best practices.
+
+With a strong interest in fintech, e-commerce, SaaS, and enterprise-level applications, I am actively seeking opportunities to apply my skills in a professional setting. My goal is to continuously grow, contribute meaningfully to development teams, and positively impact business growth through technology.
+
+💡 Always learning. Always improving. Open to exciting opportunities!
 
 ## Skills
 
