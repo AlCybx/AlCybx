@@ -6,7 +6,13 @@ I am a recent graduate with a profound interest in cybersecurity, technology and
 
 ## Objective
 
-My curiosity about technology has sparked a deep interest in cybersecurity, motivating me to pursue a career transition into this field. Currently, I am enthusiastic about joining a Security Operations Center (SOC) as a Tier 1 Analyst.
+🔹 Passionate about technology and continuously learning new skills in IT, software development, and data analytics.
+🔹 Currently exploring programming, cloud computing, and database management to build a solid foundation for an IT career.
+🔹 Learning C#, SQL, Posthresql, javascript, HTML, CSS and cloud technologies (AWS, Azure, etc.) while working on exciting projects.
+
+💡 Goal: To build a career in IT and software development, contributing to innovative solutions and improving my technical expertise.
+
+📌 Check out my projects and feel free to connect!
 
 ## Skills
 
@@ -26,12 +32,13 @@ My curiosity about technology has sparked a deep interest in cybersecurity, moti
 ## Tools
 
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TCPDump-000000?&style=for-the-badge&logo=TCPDump&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tshark-007EC6?&style=for-the-badge&logo=Tshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ProcDump-4B275F?&style=for-the-badge&logo=ProcDump&logoColor=white" />
-    <img src="https://img.shields.io/badge/-KAPE-4B275F?&style=for-the-badge&logo=KAPE&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ASP.NET-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS-000000?&style=for-the-badge&logo=TCPDump&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Javascript-007EC6?&style=for-the-badge&logo=Tshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Expess.js-4B275F?&style=for-the-badge&logo=ProcDump&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Node.js-4B275F?&style=for-the-badge&logo=KAPE&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-4B275F?&style=for-the-badge&logo=KAPE&logoColor=white" />
 
 
 <div>
@@ -57,6 +64,9 @@ My curiosity about technology has sparked a deep interest in cybersecurity, moti
 <img src="https://img.shields.io/badge/-CompTIA%20Network%2B%20Udemy-4285F4?style=for-the-badge&logo=Udemy&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20Udemy-4285F4?style=for-the-badge&logo=Udemy&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA%20Linux%2B%20Udemy-4285F4?style=for-the-badge&logo=Udemy&logoColor=white" />
+<img src="https://img.shields.io/badge/-Codecademy%20Back--End%20Engineer-1F72FF?style=for-the-badge&logo=Codecademy&logoColor=white" />
+<img src="https://img.shields.io/badge/-Codecademy%20ASP.NET%20Certificate-1F72FF?style=for-the-badge&logo=Codecademy&logoColor=white" />
+
 </div>
 
 ## Projects
